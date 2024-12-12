@@ -71,7 +71,7 @@ Using the xv6 operating system, this project involves:
 ---
 
 ## Project - 2: Simplified Unix-Like Utilities
-This project includes the development of simplified versions of common UNIX commands:
+This project includes the development of simplified versions of common UNIX commands, build from scratch:
 
 1. **ls** - List directory contents
    - `ls -l`: Displays detailed information about each file
